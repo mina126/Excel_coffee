@@ -15,9 +15,6 @@
 
 
 
-
-
-
 # Objective 
  - What's the main issue ?
   The café owner needs to identify the top-selling products in order to focus on them and boost overall sales
@@ -25,10 +22,28 @@
  - What's the best solution ?
   Develop a dashboard that offers clear insights into the café’s performance, highlighting
 
-  Best-selling coffees and beverages
+ - Best-selling coffees and beverages
 
-  Total sales
+ - Total sales
 
-  Top customers
+ - Top customers
 
-  This will help the owner concentrate on the most profitable items, attract more customers, and ultimately increase revenue
+ - This will help the owner concentrate on the most profitable items, attract more customers, and ultimately increase revenue
+
+
+# Data Source
+
+- What data is needed to achieve our goal?
+
+We need data on sales over a period of time, including:
+- Product names
+- Total customers
+- Total sales
+- Total gross profit
+
+
+
+
+
+
+
